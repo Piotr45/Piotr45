@@ -25,9 +25,5 @@
       <a><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="70" height="42"/></a>
       <br>Latex&nbsp
     </td>
-    <td align="center" width="96">
-      <a><img src="https://external-preview.redd.it/zHVd50qNko4pmQGaY0m1S0Fk44QAsrqVH9Yb7dwNA2U.png?auto=webp&s=dabb805332558b0cc7f0189f6f971e9ccea9580d" width="40" height="40"/></a>
-      <br>Vim&nbsp
-    </td>
   </tr>
 </table>
