@@ -18,6 +18,10 @@
       <br>C&nbsp
     </td>
     <td align="center" width="96">
+      <a><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40" height="40"/></a>
+      <br>C++&nbsp
+    </td>
+    <td align="center" width="96">
       <a><img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40"/></a>
       <br>Python&nbsp
     </td>
