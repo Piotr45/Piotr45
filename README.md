@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 20 years old.
 - 📖 Second year student of Computer Science at the Poznań University of Technology.
-- 🔭 I’m currently working on tinyML.
+- 🔭 I’m currently working on DIY Mars Rover.
 - 🌱 I’m currently learning electronics, vim and machine learning.
 - 📫 Reach me via  <a target="_blank" href="baryczkowski.piotr@gmail.com"><img align="center" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" /></a>
 - ⚡ Some facts about me: 
