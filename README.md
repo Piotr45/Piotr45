@@ -4,7 +4,7 @@
 - 📖 Second year student of Computer Science at the Poznań University of Technology.
 - 🔭 I’m currently working on DIY Mars Rover.
 - 🌱 I’m currently learning electronics, vim and machine learning.
-- 📫 Reach me via  <a target="_blank" href="baryczkowski.piotr@gmail.com"><img align="center" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" /></a>
+- 📫 Reach me via e-mail: baryczkowski.piotr@gmail.com
 - ⚡ Some facts about me: 
   - I do like sports especially weightlifting and tennis. 
   - I am also interested in astrophysics and engineering.
