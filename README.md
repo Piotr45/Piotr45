@@ -1,7 +1,7 @@
 ## Hi there, I'm Piotr!
 
-- 👨🏻‍💻 20 years old.
-- 📖 Second year student of Computer Science at the Poznań University of Technology.
+- 👨🏻‍💻 21 years old.
+- 📖 Third year student of Computer Science at the Poznań University of Technology.
 - 🔭 I’m currently working on DIY Mars Rover.
 - 🌱 I’m currently learning electronics, vim and machine learning.
 - 📫 Reach me via e-mail: baryczkowski.piotr@gmail.com
