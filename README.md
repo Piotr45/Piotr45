@@ -2,8 +2,7 @@
 
 - 👨🏻‍💻 21 years old.
 - 📖 Third year student of Computer Science at the Poznań University of Technology.
-- 🔭 I’m currently working on DIY Mars Rover.
-- 🌱 I’m currently learning electronics, vim and machine learning.
+- 🌱 My current intersts: embbeded systems and machine learning.
 - 📫 Reach me via e-mail: baryczkowski.piotr@gmail.com
 - ⚡ Some facts about me: 
   - I do like sports especially weightlifting and tennis. 
