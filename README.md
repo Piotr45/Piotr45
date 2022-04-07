@@ -24,9 +24,5 @@
       <a><img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40"/></a>
       <br>Python&nbsp
     </td>
-    <td align="center" width="96">
-      <a><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="70" height="42"/></a>
-      <br>Latex&nbsp
-    </td>
   </tr>
 </table>
