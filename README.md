@@ -1,7 +1,7 @@
 ## Hi there, I'm Piotr!
 
-- 👨🏻‍💻 21 years old.
-- 📖 Third year student of Computer Science at the Poznań University of Technology.
+- 👨🏻‍💻 22 years old.
+- 📖 Fourth-year student of Computer Science at the Poznań University of Technology.
 - 🌱 My current intersts: embbeded systems and machine learning.
 - 📫 Reach me via e-mail: baryczkowski.piotr@gmail.com
 - ⚡ Some facts about me: 
