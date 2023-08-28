@@ -2,8 +2,8 @@
 
 
 # About Me
-- 👨‍💻 22 years old
-- 📖 Student of the first year of master's studies in the field of Edge Computing at the Poznań University of Technology.
+- 👨‍💻 23 years old
+- 📖 Student of the second year of master's studies in the field of Edge Computing at the Poznań University of Technology.
 - 🌱 My current intersts: spiking neural networks and artificial intelligence in medicine.
 - 📧 Reach me via e-mail: baryczkowski.piotr@gmail.com
 - 🏅 I do like sports especially weightlifting and tennis.
