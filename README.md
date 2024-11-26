@@ -2,7 +2,7 @@
 
 
 # About Me
-- 👨‍💻 23 years old
+- 👨‍💻 24 years old
 - 📖 Master's studies graduate in the field of Edge Computing at the Poznań University of Technology.
 - 🌱 My current intersts: spiking neural networks and artificial intelligence in medicine.
 - 📧 Reach me via e-mail: baryczkowski.piotr@gmail.com
